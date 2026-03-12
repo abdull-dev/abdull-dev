@@ -46,7 +46,7 @@ My focus is on **performance, maintainability, and clean architecture** across b
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdull-dev&theme=tokyo-night)
+![Activity Graph](https://github-readme-stats-livid-five-68.vercel.app/graph?username=abdull-dev&layout=compact&count_private=true&theme=tokyonight)
 
 ---
 
