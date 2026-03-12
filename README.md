@@ -52,8 +52,8 @@ I specialize in engineering **scalable web architectures** and **high-performanc
 ### 🤝 Let's Connect
 - **Location:** Lahore, Pakistan 🇵🇰
 - **Email:** [abdull.dev123@gmail.com](mailto:abdull.dev123@gmail.com)
-- **LinkedIn:** [[Your Profile Link Here](https://www.linkedin.com/in/abdullah-tanveer-41b03a375/)]
-- **Portfolio:** [[Your Portfolio Link Here](abdull-tanveer.vercel.app)]
+- **LinkedIn:** [https://www.linkedin.com/in/abdullah-tanveer-41b03a375/]
+- **Portfolio:** [abdull-tanveer.vercel.app]
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdull-dev&color=blue&style=flat-square" alt="Profile Views" />
