@@ -46,7 +46,14 @@ My focus is on **performance, maintainability, and clean architecture** across b
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-stats-livid-five-68.vercel.app/graph?username=abdull-dev&layout=compact&count_private=true&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdull-dev&theme=tokyo-night)
+
+
+<!-- Streak Stats -->
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abdull-dev&theme=tokyonight)
+
+<!-- GitHub Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=abdull-dev&theme=tokyonight&margin-w=10&margin-h=10)
 
 ---
 
