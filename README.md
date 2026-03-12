@@ -37,6 +37,12 @@ Focused on **performance, maintainability, and clean architecture** across front
 
 # 📊 GitHub Statistics
 
+<!-- Streak Stats -->
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abdull-dev&theme=tokyonight)
+
+<!-- GitHub Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=abdull-dev&theme=tokyonight&margin-w=10&margin-h=10)
+
 ![GitHub Stats](https://github-readme-stats-livid-five-68.vercel.app/api?username=abdull-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-livid-five-68.vercel.app/api/top-langs/?username=abdull-dev&layout=compact&count_private=true&theme=tokyonight)
