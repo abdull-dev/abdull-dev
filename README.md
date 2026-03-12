@@ -39,9 +39,9 @@ My focus is on **performance, maintainability, and clean architecture** across b
 # 📊 GitHub Statistics
 
 <!-- Replace the URL below with your Vercel deployment URL -->
-![GitHub Stats](https://your-vercel-project.vercel.app/api?username=abdull-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sage-eight-92.vercel.app/api?username=abdull-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Languages](https://your-vercel-project.vercel.app/api/top-langs/?username=abdull-dev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sage-eight-92.vercel.app/api/top-langs/?username=abdull-dev&layout=compact&theme=tokyonight)
 
 ---
 
