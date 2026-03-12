@@ -18,7 +18,7 @@ I specialize in engineering **scalable web architectures** and **high-performanc
 ---
 
 ### 📊 Engineering Impact
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-livid-five-68.vercel.app/api?username=abdull-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="175" />
   <img src="https://github-readme-stats-livid-five-68.vercel.app/api/top-langs/?username=abdull-dev&layout=compact&count_private=true&theme=tokyonight" height="175" />
   <p align="center">
