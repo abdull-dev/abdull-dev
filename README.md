@@ -39,7 +39,7 @@ My focus is on **performance, maintainability, and clean architecture** across b
 # 📊 GitHub Statistics
 
 <!-- Using Vercel deployment to show private contributions -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdull-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-theta-rust-17.vercel.app/api?username=abdull-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdull-dev&layout=compact&theme=tokyonight)
 
