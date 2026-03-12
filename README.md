@@ -22,5 +22,4 @@ I am a **Full-Stack Engineer** specializing in creating high-performance user in
 
 ### 📧 Get in Touch
 - **Email:** [abdull.dev123@gmail.com](mailto:abdull.dev123@gmail.com)
-- **Phone:** +92 311 4440959
-- **Location:** Gujranwala, Pakistan
+- **Location:** Lahore, Pakistan
