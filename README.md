@@ -17,7 +17,6 @@ I am a **Full-Stack Engineer** specializing in creating high-performance user in
 ### 📊 GitHub Activity Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdull-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdull-dev&layout=compact&theme=tokyonight)
-
 ---
 
 ### 📧 Get in Touch
