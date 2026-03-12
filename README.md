@@ -3,36 +3,35 @@
 ### Full-Stack Engineer — React, Next.js & Node.js
 
 I build **scalable web applications and high-performance user interfaces**.  
-My focus is on **performance, maintainability, and clean architecture** across both frontend and backend systems.
+Focused on **performance, maintainability, and clean architecture** across frontend and backend.
 
 ---
 
 # 🚀 Tech Stack
 
 ### Frontend
-- React.js  
-- Next.js  
-- TypeScript  
-- JavaScript  
-- Tailwind CSS  
-- Material UI  
+- ⚛️ React.js  
+- ⏩ Next.js  
+- 📝 TypeScript / JavaScript  
+- 🎨 Tailwind CSS  
+- 🖌 Material UI  
 
 ### Backend
-- Node.js  
-- Express.js  
-- Nest.js  
+- 🌐 Node.js  
+- ⚡ Express.js  
+- 🏗 Nest.js  
 
 ### Database
-- MongoDB  
+- 🍃 MongoDB  
 
 ### State Management
-- Redux  
+- 🔄 Redux  
 
 ### Tools & Platforms
-- Electron.js  
-- REST API Integration  
-- SSR / CSR Optimization  
-- Git & GitHub  
+- 💻 Electron.js  
+- 🌐 REST API Integration  
+- 🔄 SSR / CSR Optimization  
+- 🛠 Git & GitHub  
 
 ---
 
@@ -48,44 +47,35 @@ My focus is on **performance, maintainability, and clean architecture** across b
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdull-dev&theme=tokyo-night)
 
-
-<!-- Streak Stats -->
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abdull-dev&theme=tokyonight)
-
-<!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=abdull-dev&theme=tokyonight&margin-w=10&margin-h=10)
-
 ---
 
 # 🔥 Current Focus
 
-- Building scalable **Next.js applications**
-- Optimizing **React performance**
-- Designing **clean backend APIs**
-- Improving **system architecture and scalability**
+- ⚛️ Building scalable **Next.js applications**  
+- ⚡ Optimizing **React performance**  
+- 🏗 Designing **clean backend APIs**  
+- 📈 Improving **system architecture and scalability**  
 
 ---
 
 # 📂 Featured Projects
 
-### Auxee Frontend
+### 🖥 Auxee Frontend
 Modern web frontend built with **Next.js and TypeScript**.
 
-### Auxee Admin Panel
+### 📊 Auxee Admin Panel
 Admin dashboard with advanced UI components and state management.
 
-### Auxee Chat Microservice
+### 💬 Auxee Chat Microservice
 Backend microservice handling real-time messaging and communication logic.
 
 ---
 
 # 🌍 Connect With Me
 
-📧 Email  
-[abdull.dev123@gmail.com](mailto:abdull.dev123@gmail.com)  
-
-📍 Location  
-Lahore, Pakistan
+- 📧 Email: [abdull.dev123@gmail.com](mailto:abdull.dev123@gmail.com)  
+- 📍 Location: Lahore, Pakistan  
+- 🔗 GitHub: [abdull-dev](https://github.com/abdull-dev)  
 
 ---
 
@@ -95,4 +85,6 @@ Lahore, Pakistan
 
 ---
 
-⭐ From [abdull-dev](https://github.com/abdull-dev)
+# 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=abdull-dev&theme=tokyonight&margin-w=10&margin-h=10)
